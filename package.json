@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "actions-toolkit": "^2.2.0",
+    "actions-toolkit": "^6.0.1",
     "jira-client": "^6.14.0"
   },
   "devDependencies": {
